@@ -1,0 +1,18 @@
+# Local Terraform state
+*.tfstate
+*.tfstate.backup
+
+# Sensitive variable files
+*.tfvars
+*.tfvars.json
+
+# Terraform provider and module caches
+.terraform/
+
+# Crash log files
+crash.log
+
+# Ignore editor or IDE files
+.vscode/
+.idea/
+*.swp
